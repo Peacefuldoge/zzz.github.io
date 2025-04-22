@@ -26,11 +26,11 @@
     
     
     <entry>
-      <title></title>
+      <title>About me</title>
       <link href="/zzz.github.io/about/index.html"/>
       <url>/zzz.github.io/about/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="About-me"><a href="#About-me" class="headerlink" title="About me"></a>About me</h1><h2 id="👋-Hello-I’m-AtomicDoge"><a href="#👋-Hello-I’m-AtomicDoge" class="headerlink" title="👋 Hello, I’m AtomicDoge!"></a>👋 Hello, I’m <strong>AtomicDoge</strong>!</h2><p> I’m currently a Master’s student in <strong>Engineering Science</strong> at the <strong>Faculty of Engineering, University of Malaya</strong>.</p><p> My research focuses on the intersection of <strong>Artificial Intelligence</strong> and <strong>Cognitive Science</strong>.</p><hr><p>📝 On this blog, I share:</p><ul><li>💭 <strong>Daily thoughts</strong></li><li>📚 <strong>Learning journey</strong></li><li>💻 <strong>Code</strong></li></ul><p>📫 Feel free to connect or leave a comment — I’m always happy to talk about science, tech, or just good coffee ☕️!</p><p>Orcid: <a href="https://orcid.org/0009-0005-0966-8706">https://orcid.org/0009-0005-0966-8706</a><br>Email: <a href="mailto:&#122;&#x68;&#x65;&#110;&#122;&#x75;&#x6f;&#46;&#x6c;&#x61;&#x69;&#x77;&#x75;&#64;&#103;&#109;&#97;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;">zhenzuo.laiwu@gmail.com</a></p><hr>]]></content>
       
     </entry>
     
